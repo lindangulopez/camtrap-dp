@@ -9,3 +9,7 @@ See the [documentation website](https://tdwg.github.io/camtrap-dp/).
 ## Contribute
 
 Questions? Suggestions? Contribute to the development of Camtrap DP by watching the [repository](https://github.com/tdwg/camtrap-dp) and participating in [issue discussions](https://github.com/tdwg/camtrap-dp/issues).
+
+<!--  -->
+
+[Recorded presentation](https://drive.google.com/file/d/1QkosUBRESKy4cj58WD8EbBYOmOBGSp7-/view)
